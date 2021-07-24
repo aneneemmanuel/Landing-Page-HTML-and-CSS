@@ -7,7 +7,7 @@ The challenge was to build a responsive landing page for a Stats Review company 
 
 ### Screenshot
 
-![](./Screenshot 2021-07-24 040941.jpg)
+https://github.com/aneneemmanuel/Landing-Page-HTML-and-CSS/blob/main/images/Screenshot%202021-07-24%20040941.jpg
 
 
 ### Links
@@ -31,7 +31,7 @@ I learnt a couple of new properties working on this challenge like adding backgr
 
 ### Useful resources
 
-https://www.byol.com - His web design course helped build my understanding of HTML and CSS. I highly recommend to anyone getting started in web design.
+https://www.byol.com - Their web design course helped build my understanding of HTML and CSS. I highly recommend to anyone getting started in web design.
 
 ## Acknowledgments
 
